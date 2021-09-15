@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @JonataDorea
 - 👀 Eu, tenho enteresse em html5, css3 e python
-- 🌱 I’m currently learning html5, css3 e python
+- 🌱 Atualmente estou aprendendo html5, css3 e python
 - 💞️ I’m looking to collaborate on curso em video
 - 📫 How to reach me ...
 
