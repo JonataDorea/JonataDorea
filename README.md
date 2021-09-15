@@ -2,7 +2,7 @@
 - 👀 Eu, tenho enteresse em html5, css3 e python
 - 🌱 Atualmente estou aprendendo html5, css3 e python
 - 💞️ Estou procurando colaborar curso em video
-- 📫 How to reach me ...
+- 📫 Como me encontrar ...
 
 <!---
 JonataDorea/JonataDorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
